@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Libs\Core\CoreApp.Web\Core.App.Web.csproj" />
+    <ProjectReference Include="..\..\libs\core\App.Web\Core.App.Web.csproj" />
   </ItemGroup>
 
 </Project>
