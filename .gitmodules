@@ -1,4 +1,0 @@
-[submodule "framework-core"]
-	path = src/libs/core
-	url = https://github.com/lensbysits/core-backend.git
-	branch = develop
