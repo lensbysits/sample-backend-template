@@ -1,10 +1,10 @@
-﻿using CoreApp.Console;
-using CoreLib;
-using CoreLib.Builders;
-using Microsoft.Extensions.DependencyInjection;
+﻿using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Dummy.Console.Services;
 using System.Threading.Tasks;
+using Lens.Core.Lib.Builders;
+using Lens.Core.App.Console;
+using Lens.Core.Lib;
 
 namespace Dummy.Console
 {

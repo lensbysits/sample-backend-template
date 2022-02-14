@@ -1,4 +1,4 @@
-﻿using CoreLib.Services;
+﻿using Lens.Core.Lib.Services;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Threading;

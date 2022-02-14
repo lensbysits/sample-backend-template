@@ -1,4 +1,4 @@
-using CoreApp.Web;
+using Lens.Core.App.Web;
 using Microsoft.Extensions.Hosting;
 using System.Threading.Tasks;
 

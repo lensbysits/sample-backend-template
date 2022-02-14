@@ -1,5 +1,5 @@
-using CoreApp.Web;
-using CoreLib.Builders;
+using Lens.Core.App.Web;
+using Lens.Core.Lib.Builders;
 using Microsoft.Extensions.Configuration;
 
 namespace Dummy.Web
